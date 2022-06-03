@@ -1,0 +1,10 @@
+{
+    "userid": "himansh7858@gmail.com",
+    "password": "himanSHU@7004",
+    "moderators": "hello",
+    
+    "dependencies": {
+      "puppeteer": "^10.4.0",
+      "puppeteer-core": "^10.4.0"
+    }
+  }
